@@ -1,0 +1,17 @@
+nav{
+    
+    color:white;
+}
+nav ul li{
+    display:inline;
+    color:white;
+}
+body{
+    background-color:bisque;
+    background-image: url("https://img.freepik.com/premium-photo/from-shot-musician-stage-holding-guitar_23-2148465337.jpg?w=740");
+    background-size:cover;
+    text-align:center;
+}
+footer{
+    BACKGROUND-COLOR:"WHITE";
+}
